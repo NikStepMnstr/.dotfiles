@@ -1,0 +1,10 @@
+tap "homebrew/bundle"
+tap "homebrew/core"
+
+brew "coreutils"
+brew "diff-so-fancy"
+brew "dockutil"¨
+brew "ffmpeg"
+brew "grep"
+brew "mackup"
+brew "nano"
