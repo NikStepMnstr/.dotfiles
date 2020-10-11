@@ -15,6 +15,13 @@ cask "sourcetree"
 cask "spotify"
 cask "visual-studio-code"
 cask "iina"
+cask "focus"
+cask "discord"
+cask "insomnia"
+cask "ferdi"
+cask "runjs"
+cask "macs-fan-control"
+cask "figma"
 
 # Quick Look Plugins (https://github.com/sindresorhus/quick-look-plugins)
 cask "qlcolorcode"
